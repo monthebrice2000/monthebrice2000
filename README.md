@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brice</h1>
-<h3 align="center">A Junior Software Design</h3>
+<h3 align="center">A Junior Software Design & A Junior Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monthebrice2000&label=Profile%20views&color=0e75b6&style=flat" alt="monthebrice2000" /> </p>
 
